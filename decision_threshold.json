@@ -1,0 +1,6 @@
+{
+  "positive_class": "fake_notes",
+  "objective": "f1",
+  "threshold": 0.5916581749916077,
+  "validation_f1": 0.9820923656927427
+}

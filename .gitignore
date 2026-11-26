@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Dataset
+dataset/
+JaalTaka/
+
+# Temporary files
+*.log
+.DS_Store
+
+# IDE
+.vscode/
